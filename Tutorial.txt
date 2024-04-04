@@ -1,0 +1,8 @@
+
+	Cara Menjalankan Program:
+===========================================================
+
+   1. Copy pastekan folder cm pda htdocs.
+   2. Inport file citra_motor.sql.
+   3. Kemudian ketikan pada alamat web http://localhost/cm.
+   4. Selesai.
